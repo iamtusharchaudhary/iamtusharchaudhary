@@ -5,7 +5,7 @@
  👀 Backend: Node Js & Express Js
   <br/>
   <br/>
- 🌱 Libraries: Bootstrap
+ 🌱 Libraries: Bootstrap , jQuery
   <br/>
   <br/>
  📫 Languages: Hindi , English

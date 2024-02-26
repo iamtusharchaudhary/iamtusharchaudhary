@@ -1,9 +1,12 @@
 # Full Stack Web Developer
  👋 Frontend: HTML , CSS , Javascript , React & jQuery
  <br/>
+ <br/>
  👀 Backend: Node Js & Express Js
   <br/>
+  <br/>
  🌱 Libraries: Bootstrap
+  <br/>
   <br/>
  📫 Languages: Hindi , English
 

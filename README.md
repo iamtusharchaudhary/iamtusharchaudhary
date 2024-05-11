@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="twitter-logo" height="30" width="30" align="center"/>
 </a>
 <br/>
-<a href="https://www.instagram.com/in/ ultimate_tushar_singh"></a>
+<a href="https://www.instagram.com/in/ ultimate_tushar_singh">
+  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Instagram.jpg" alt="instagram-logo" height="30" width="30" align="center"/>
+</a>
 <br/>
-<a href="https://www.facebook.com/in/ imtusharchaudhary"></a>
+<a href="https://www.facebook.com/in/ imtusharchaudhary">
+  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Facebook.jpg" alt="facebook-logo" height="30" width="30" align="center"/>
+</a>

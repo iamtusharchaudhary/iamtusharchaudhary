@@ -14,21 +14,17 @@ iamtusharchaudhary/iamtusharchaudhary is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>Contact With Me :-</h2>
+- 🌱 I’m currently learning **MERN FULL STACK DEVELOPMENT**
+
+- 📫 How to reach me **tusharchaudharytech@gmail.com.com**
+
+- ⚡ Fun fact **SLIENT MOD**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ tusharchaudhary-Tech" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="instagram-logo" height="30" width="30" align="center" target="blank"/>
-</a>
-<br/>
-<a href="https://www.twitter.com/in/ Tusharcofficial" target="blank">
- <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="twitter-logo" height="30" width="30" align="center" target="blank"/>
-</a>
-<br/>
-<a href="https://www.instagram.com/in/ ultimate_tushar_singh" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-logo" height="30" width="30" align="center" target="blank"/>
-</a>
-<br/>
-<a href="https://www.facebook.com/in/ imtusharchaudhary" target="blank">
-  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Facebook.jpg" alt="facebook-logo" height="30" width="30" align="center"/>
-</a>
+<a href="https://x.com/DhirajS67293160?t=ZhoXG_wRqaO7fXLJ6MR9BQ&s=09" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="_dhiraj_singh_" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/dhiraj-kumar-singh-4043a2279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajkumarsingh" height="30" width="40" /></a>
+<a href="https://instagram.com/_dhirajsinghv1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dhirajsinghv1_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhirajsingh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhirajsingh99" height="30" width="40" /></a>
+<a href="https://discord.gg/Dhiraj007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dhiraj007" height="30" width="40" /></a>
 </p>

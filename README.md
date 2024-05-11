@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 <hr/>
 
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPMENT**
+🌱 I’m currently learning **MERN FULL STACK DEVELOPMENT**
 
-- 📫 How to reach me **tusharchaudharytech@gmail.com.com**
+ 📫 How to reach me **tusharchaudharytech@gmail.com.com**
 
-- ⚡ Fun fact **SLIENT MOD**
+ ⚡ Fun fact **SLIENT MOD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

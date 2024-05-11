@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>Contact With Me :-</h2>
-<div style="display:'flex'">
+<div style={display:"flex"}>
 <a href="https://www.linkedin.com/in/ tusharchaudhary-Tech" target="blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="instagram-logo" height="30" width="30" align="center" target="blank"/>
 </a>

@@ -15,14 +15,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>Contact With Me :-</h2>
-<a href="https://www.linkedin.com/in/ tusharchaudhary-Tech"></a>
+<a href="https://www.linkedin.com/in/ tusharchaudhary-Tech">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="instagram-logo" height="30" width="30" align="center"/>
+</a>
 <br/>
 <a href="https://www.twitter.com/in/ Tusharcofficial">
  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="twitter-logo" height="30" width="30" align="center"/>
 </a>
 <br/>
 <a href="https://www.instagram.com/in/ ultimate_tushar_singh">
-  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Instagram.jpg" alt="instagram-logo" height="30" width="30" align="center"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-logo" height="30" width="30" align="center"/>
 </a>
 <br/>
 <a href="https://www.facebook.com/in/ imtusharchaudhary">

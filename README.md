@@ -15,18 +15,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>Contact With Me :-</h2>
-<a href="https://www.linkedin.com/in/ tusharchaudhary-Tech">
+<a href="https://www.linkedin.com/in/ tusharchaudhary-Tech" target="blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="instagram-logo" height="30" width="30" align="center" target="blank"/>
 </a>
 <br/>
-<a href="https://www.twitter.com/in/ Tusharcofficial">
+<a href="https://www.twitter.com/in/ Tusharcofficial" target="blank">
  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="twitter-logo" height="30" width="30" align="center" target="blank"/>
 </a>
 <br/>
-<a href="https://www.instagram.com/in/ ultimate_tushar_singh">
+<a href="https://www.instagram.com/in/ ultimate_tushar_singh" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-logo" height="30" width="30" align="center" target="blank"/>
 </a>
 <br/>
-<a href="https://www.facebook.com/in/ imtusharchaudhary">
-  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Facebook.jpg" alt="facebook-logo" height="30" width="30" align="center" target="blank"/>
+<a href="https://www.facebook.com/in/ imtusharchaudhary" target="blank">
+  <img src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Facebook.jpg" alt="facebook-logo" height="30" width="30" align="center"/>
 </a>

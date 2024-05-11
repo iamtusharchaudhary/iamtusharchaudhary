@@ -18,9 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 🌱 I’m currently learning **MERN FULL STACK DEVELOPMENT**
 
- 📫 How to reach me **tusharchaudharytech@gmail.com.com**
+ 📫 How to reach me **tusharchaudharytech@gmail.com**
 
  ⚡ Fun fact **SLIENT MOD**
+
+ <hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

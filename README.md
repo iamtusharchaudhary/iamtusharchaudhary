@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
  📫 How to reach me **tusharchaudharytech@gmail.com**
 
- ⚡ Fun fact **SLIENT MOD**
+ ⚡ Fun fact **SILENT MOD**
 
  <hr/>
 

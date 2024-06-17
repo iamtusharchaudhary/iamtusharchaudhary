@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Tusharcofficial" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="Tusharcofficial" height="30" width="45" /></a>
-<a href="https://www.linkedin.com/tusharchaudhary-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharchaudhary-tech" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/tusharchaudhary-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharchaudhary-tech" height="30" width="50" /></a>
 <a href="https://instagram.com/iamtusharchaudhry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamtusharchaudhry" height="30" width="50" /></a>
 <a href="https://www.facebook.com/imtusharchaudhary" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Facebook-Logosu.png" alt="imtusharchaudhary" height="30" width="50" /></a>
 <p/>

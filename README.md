@@ -3,10 +3,10 @@
 <ul>
   <li>😄 I have recently completed my Bachelor's of Engineering in Information Technology.</li>
   <li>🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.</li>
-  <li>😄 Full-Stack Developer specializing in MERN Stack."</li>
+  <li>👨‍💻 Full-Stack Developer specializing in MERN Stack."</li>
   <li>🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.</li>
-  <li> Feel free to explore my repositories and contribute.</li>
-  <li> "Skilled in JavaScript, React.js, Node.js, MongoDB, Express.".</li>
+  <li>🎪 Feel free to explore my repositories and contribute.</li>
+  <li>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express.".</li>
 </ul>
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpN2J5a2p2Z3R3ODZyZzM0eml2eG50ZGl6d3gxOHMweXczdno4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">

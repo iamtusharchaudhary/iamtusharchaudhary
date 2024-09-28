@@ -1,6 +1,3 @@
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpN2J5a2p2Z3R3ODZyZzM0eml2eG50ZGl6d3gxOHMweXczdno4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
-
-
 # Full Stack Web Developer
 
 <ul>
@@ -12,10 +9,13 @@
   <li>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express.".</li>
 </ul>
 
+
 <!---
 iamtusharchaudhary/iamtusharchaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpN2J5a2p2Z3R3ODZyZzM0eml2eG50ZGl6d3gxOHMweXczdno4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

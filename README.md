@@ -4,9 +4,9 @@
   <li>😄 I have recently completed my Bachelor's of Technology in Computer Science & Engineering.</li>
   <li>🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.</li>
   <li>👨‍💻 Full-Stack Developer specializing in MERN Stack."</li>
-  <li>🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.</li>
+  <li>🚀 "I believe in continuous learning and frequently explore new technologies".</li>
   <li>🎪 Feel free to explore my repositories and contribute.</li>
-  <li>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express.".</li>
+  <li>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express".</li>
 </ul>
 
 

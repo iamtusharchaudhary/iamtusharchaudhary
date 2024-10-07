@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 ![iamtusharchaudhary Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtusharchaudhary&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-
+![iamtusharchaudhary Top Lamguages](https://github-readme-stats.vercel.app/api?username=iamtusharchaudhary&show_icons=true&locale=en)

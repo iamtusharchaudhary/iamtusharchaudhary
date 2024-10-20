@@ -1,7 +1,4 @@
 # Full Stack Web Developer
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="50%" alt="banner"></img>
-
 <ul>
   <li><h4>😄 I have recently completed my Bachelor's of Technology in Computer Science & Engineering.</h4></li>
   <li><h4>🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.</h4></li>
@@ -16,7 +13,7 @@
 iamtusharchaudhary/iamtusharchaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="50%" alt="banner"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

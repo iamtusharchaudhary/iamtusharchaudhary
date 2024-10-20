@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="banner"></img>
+
 # Full Stack Web Developer
 
 <ul>
@@ -8,9 +10,6 @@
   <li><h4>🎪 Feel free to explore my repositories and contribute.</h4></li>
   <li><h4>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express".</h4></li>
 </ul>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="banner"></img>
 
 
 <!---

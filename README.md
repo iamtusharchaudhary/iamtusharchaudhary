@@ -10,7 +10,7 @@
 </ul>
 
 
-<img src="[https://github.com/user-attachments/assets/131143fb-8c3a-4e2c-a717-35e8bc010ca1](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+<img src="https://github.com/user-attachments/assets/131143fb-8c3a-4e2c-a717-35e8bc010ca1https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif
 " alt="banner"></img>
 
 

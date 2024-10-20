@@ -7,7 +7,8 @@
   <li><h4>🎪 Feel free to explore my repositories and contribute.</h4></li>
   <li><h4>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express".</h4></li>
 </ul>
-
+<br/>
+<hr/>
 <br/>
 <!---
 iamtusharchaudhary/iamtusharchaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

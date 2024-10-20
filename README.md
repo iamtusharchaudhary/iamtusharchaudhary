@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="50%" alt="banner"></img>
-
 # Full Stack Web Developer
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="50%" alt="banner"></img>
 
 <ul>
   <li><h4>😄 I have recently completed my Bachelor's of Technology in Computer Science & Engineering.</h4></li>

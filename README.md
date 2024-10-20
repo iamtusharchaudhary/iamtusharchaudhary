@@ -14,7 +14,7 @@
 iamtusharchaudhary/iamtusharchaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid transparent" border-radius="40px" width="100%" height="200px" alt="banner"></img>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid black" border-radius="70px" width="100%" height="270px" alt="banner"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

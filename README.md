@@ -1,7 +1,7 @@
 # Full Stack Web Developer
 
 <ul>
-  <li>😄 I have recently completed my Bachelor's of Technology in Computer Science & Engineering.</li>
+  <li><h3>😄 I have recently completed my Bachelor's of Technology in Computer Science & Engineering.</h3></li>
   <li>🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.</li>
   <li>👨‍💻 Full-Stack Developer specializing in MERN Stack."</li>
   <li>🚀 "I believe in continuous learning and frequently explore new technologies".</li>

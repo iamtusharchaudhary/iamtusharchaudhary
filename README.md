@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid black" border-radius="100px" width="60%" style="border-radius: 10px;" height="300px" alt="banner"></img>
 
+<br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>

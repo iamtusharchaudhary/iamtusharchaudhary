@@ -11,7 +11,9 @@
 <hr/>
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid black" border-radius="100px" width="60%" style="border-radius: 10px;" height="300px" alt="banner"></img>
+<br/>
 <hr/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Tusharcofficial" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="Tusharcofficial" height="30" width="45" /></a>

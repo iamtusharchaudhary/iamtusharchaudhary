@@ -12,7 +12,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid black" border-radius="100px" width="60%" style="border-radius: 10px;" height="300px" alt="banner"></img>
 
-<img src="C:\Users\Tushar Chaudhary\Downloads\373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" alt="banner"/>
+<img src="![Uploading 373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif…]()
+" alt="banner"/>
 
 <hr/>
 

@@ -7,12 +7,10 @@
   <li><h4>🎪 Feel free to explore my repositories and contribute.</h4></li>
   <li><h4>🌱 "Skilled in JavaScript, React.js, Node.js, MongoDB, Express".</h4></li>
 </ul>
-
+<br/>
 <hr/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid black" border-radius="100px" width="60%" style="border-radius: 10px;" height="300px" alt="banner"></img>
-
-" alt="banner"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" border="10px solid black" border-radius="100px" width="60%" style="border-radius: 10px;" height="300px" alt="banner"></img
 
 <hr/>
 
